@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/Estadisticas_equipoDAO.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/PartidoDAO.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Test/Test.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/ComprobarConexion.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/Partido.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/Estadisticas_equipo.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/web/Vistas/GuardarEquipos.jsp</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/Conexion.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Controlador/GestionEquipos.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Interfaces/CRUD.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/Equipo.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/web/Vistas/AgregarEquipos.jsp</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/src/java/Modelo/EquipoDAO.java</file>
+            <file>file:/C:/Users/duvan/Documents/NetBeansProjects/FutbolWeb/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
